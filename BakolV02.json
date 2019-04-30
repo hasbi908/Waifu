@@ -7,6 +7,31 @@
       "birth_date": "December 3",
       "Anime": "Non Non Biyori",
       "Poster": "https://raw.githubusercontent.com/hasbi908/Waifu/master/2.jpg"
+    },
+    {
+      "id": 2,
+      "no": 2,
+      "name": "Sagiri Izumi",
+      "birth_date": "December 10",
+      "Anime": "Ero manga Sensei",
+      "Poster": "https://raw.githubusercontent.com/hasbi908/Waifu/master/3.png"
+    },
+    {
+      "id": 3,
+      "no": 3,
+      "name": "Kaguya Shinomiya",
+      "birth_date": "January 1",
+      "Anime": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "Poster": "https://raw.githubusercontent.com/hasbi908/Waifu/master/5.jpg"
+    },
+    
+    {
+      "id": 4,
+      "no": 4,
+      "name": "Rory Mercury",
+      "birth_date": "Unknow",
+      "Anime": "Gate Jieitai Kanochi nite, Kaku Tatakaeri",
+      "Poster": "https://raw.githubusercontent.com/hasbi908/Waifu/master/6.jpg"
     }
   ]
 }
